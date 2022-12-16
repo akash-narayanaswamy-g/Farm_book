@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68234739904",
+    "project_id": "farm-book-d1ac5",
+    "storage_bucket": "farm-book-d1ac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68234739904:android:26a426bc0ca50666872d25",
+        "android_client_info": {
+          "package_name": "com.example.farm_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68234739904-v0j0e1fqs8vavae24r8pilva999qme11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzVYmrW1VHqY45U96rLoeQnZR595Fa1OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68234739904-v0j0e1fqs8vavae24r8pilva999qme11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
